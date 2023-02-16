@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="160.916">
+  <properties />
+  
+  
+            <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="10.421" classname="com.CVlibrary.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="6.871" classname="com.CVlibrary.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="48.892" classname="com.CVlibrary.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="42.108" classname="com.CVlibrary.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="44.154" classname="com.CVlibrary.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="8.470" classname="com.CVlibrary.testsuite.JobSearchTest" />
+      
+</testsuite>
